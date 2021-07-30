@@ -1,10 +1,10 @@
-## Laboratorio
+## Laboratorio de Cognición Neurociencia y Contexto
 
-You can use the [editor on GitHub](https://github.com/pabloreyesg/labneuropuj.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Laboratorio del doctorado en Neurociencias del programa doctoral de la Pontificia Universidad Javeriana
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+El doctorado en neurociencias busca generar un conocimiento novedoso, de alta calidad, prove-niente de grupos con formación teórica diferente, pero con inquietudes que convergen en contribuir al entendimiento de los procesos cognitivos, afectivos y sociales que predominan nuestras conductas. La producción intelectual de este doctorado estará vinculada directamente con la constitución de una práctica científica crítica, reflexiva e interdisciplinaria, que responda a los actuales retos sociales, polí-ticos y culturales propios de nuestro contexto, de acuerdo con los avances recientes de esta disciplina: las neurociencias.
 
-### Markdown
+### Lineas de investigación
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
