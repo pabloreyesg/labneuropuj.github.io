@@ -2,36 +2,25 @@
 
 Laboratorio del doctorado en Neurociencias del programa doctoral de la Pontificia Universidad Javeriana
 
-El doctorado en neurociencias busca generar un conocimiento novedoso, de alta calidad, prove-niente de grupos con formación teórica diferente, pero con inquietudes que convergen en contribuir al entendimiento de los procesos cognitivos, afectivos y sociales que predominan nuestras conductas. La producción intelectual de este doctorado estará vinculada directamente con la constitución de una práctica científica crítica, reflexiva e interdisciplinaria, que responda a los actuales retos sociales, polí-ticos y culturales propios de nuestro contexto, de acuerdo con los avances recientes de esta disciplina: las neurociencias.
+El doctorado en neurociencias busca generar un conocimiento novedoso, de alta calidad, proveniente de grupos con formación teórica diferente, pero con inquietudes que convergen en contribuir al entendimiento de los procesos cognitivos, afectivos y sociales que predominan nuestras conductas. La producción intelectual de este doctorado estará vinculada directamente con la constitución de una práctica científica crítica, reflexiva e interdisciplinaria, que responda a los actuales retos sociales, políticos y culturales propios de nuestro contexto, de acuerdo con los avances recientes de esta disciplina: las neurociencias.
 
-### Lineas de investigación
+### Líneas de investigación
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+1. Neurocognición humana y sus alteraciones
 
-```markdown
-Syntax highlighted code block
+   1. Neurociencia y salud del sistema nervioso
+   2. Neurodesarrollo y curso vital
+   3. Neuropsiquiatría y Neuropsicología
+   4. Neurociencia básica y traslacional
 
-# Header 1
-## Header 2
-### Header 3
+2. Neurociencia mente e interacción social
 
-- Bulleted
-- List
+   1. Neurociencia Cognitiva
 
-1. Numbered
-2. List
+   2. Neurociencia Social
 
-**Bold** and _Italic_ and `Code` text
+   3. Filosofía de la mente
 
-[Link](url) and ![Image](src)
-```
+   4. Neurociencias y fenomenología
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/pabloreyesg/labneuropuj.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+      
